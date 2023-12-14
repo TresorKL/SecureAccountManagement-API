@@ -32,6 +32,10 @@
 #### * Secure Data Storage: Leverages PostgreSQL for safe and secure storage of sensitive user information.
 
 
+## ERD
+
+![Screenshot 2023-12-14 at 19 24 10](https://github.com/TresorKL/SecureAccountManagement-API/assets/86111190/5161cf6a-db05-4e8c-81ab-15e312a61664)
+
 ## Tech Stack
 
 #### * Java: Utilizes Spring Boot with Spring Security for robust API development.
