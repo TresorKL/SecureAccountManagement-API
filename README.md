@@ -9,33 +9,33 @@
 
 ## Key Features/Functionalities
 
-### * Account Creation/Signup: Allows users to create accounts with email verification, including features for resending verification codes.
+#### * Account Creation/Signup: Allows users to create accounts with email verification, including features for resending verification codes.
 
-### * Login/Signin: Implements advanced suspicious login detection, two-factor authentication, and JWT-based authentication and authorization.
+#### * Login/Signin: Implements advanced suspicious login detection, two-factor authentication, and JWT-based authentication and authorization.
 
-### * Forgot Password: Offers a secure password reset mechanism through email verification.
+#### * Forgot Password: Offers a secure password reset mechanism through email verification.
 
-### * Update: Enables users to modify security preferences and account details securely.
+#### * Update: Enables users to modify security preferences and account details securely.
 
-### * View Data: Ensures robust authentication and authorization mechanisms through JWT, securing sensitive data access.
+#### * View Data: Ensures robust authentication and authorization mechanisms through JWT, securing sensitive data access.
   
-### * Multi-Factor Authentication (MFA): Implements an additional layer of security for user authentication.
+#### * Multi-Factor Authentication (MFA): Implements an additional layer of security for user authentication.
 
 
 ## Security Focus
 
 
-### * Email Verification: Ensures account authenticity by requiring email verification during signup and password reset processes.
+#### * Email Verification: Ensures account authenticity by requiring email verification during signup and password reset processes.
 
-### * Two-Factor Authentication (2FA): Adds an extra layer of security by implementing 2FA for user logins.
+#### * Two-Factor Authentication (2FA): Adds an extra layer of security by implementing 2FA for user logins.
 
-### * Secure Data Storage: Leverages PostgreSQL for safe and secure storage of sensitive user information.
+#### * Secure Data Storage: Leverages PostgreSQL for safe and secure storage of sensitive user information.
 
 
 ## Tech Stack
 
-### * Java: Utilizes Spring Boot with Spring Security for robust API development.
+#### * Java: Utilizes Spring Boot with Spring Security for robust API development.
 
-### * PostgreSQL: Integrates with a PostgreSQL database for efficient data management.
+#### * PostgreSQL: Integrates with a PostgreSQL database for efficient data management.
 
-### * OAuth, JWT: Implements OAuth for secure authorization and JWT for authentication.
+#### * OAuth, JWT: Implements OAuth for secure authorization and JWT for authentication.
